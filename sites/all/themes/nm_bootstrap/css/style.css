@@ -6867,3 +6867,7 @@ table .checkbox input[type="checkbox"] {
     margin-top: 290px;
   }
 }
+
+.main-container {
+  margin-top: 55px;
+}
