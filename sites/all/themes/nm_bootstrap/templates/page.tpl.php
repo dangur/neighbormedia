@@ -90,7 +90,7 @@
       <p class="lead"><?php print $site_slogan; ?></p>
       <?php endif; ?>
 
-      <a href="http://cctvcambrdge.org/">A service of Cambridge Community Television <img src="sites/all/themes/nm_bootstrap/images/cctvlogo.png"></a>
+      <a href="http://cctvcambrdge.org/">A service of Cambridge Community Television <img src="/sites/all/themes/nm_bootstrap/images/cctvlogo.png"></a>
 
       <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
