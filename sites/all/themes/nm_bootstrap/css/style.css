@@ -6860,3 +6860,10 @@ table .checkbox input[type="checkbox"] {
 .alert-danger a {
   color: #843534;
 }
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    position: absolute;
+    margin-top: 290px;
+  }
+}
