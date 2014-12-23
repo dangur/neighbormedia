@@ -86,6 +86,10 @@
       <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a>
       <?php endif; ?>
 
+      <?php if (!empty($site_slogan)): ?>
+      <p class="lead"><?php print $site_slogan; ?></p>
+      <?php endif; ?>
+
       <a href="http://cctvcambrdge.org/">A service of Cambridge Community Television <img src="sites/all/themes/nm_bootstrap/images/cctvlogo.png"></a>
 
       <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
@@ -118,9 +122,7 @@
 <div class="main-container container">
 
   <header role="banner" id="page-header">
-    <?php if (!empty($site_slogan)): ?>
-      <p class="lead"><?php print $site_slogan; ?></p>
-    <?php endif; ?>
+    <!-- Took slogan out of here -->
 
     <?php print render($page['header']); ?>
   </header> <!-- /#page-header -->
