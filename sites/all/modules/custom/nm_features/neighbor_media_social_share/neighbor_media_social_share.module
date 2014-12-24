@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Neighbor Media Social Share feature.
+ */
+
+include_once 'neighbor_media_social_share.features.inc';
