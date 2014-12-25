@@ -6871,3 +6871,7 @@ table .checkbox input[type="checkbox"] {
 .main-container {
   margin-top: 55px;
 }
+
+a.name.navbar-brand {
+  font-size: xx-large;
+}
