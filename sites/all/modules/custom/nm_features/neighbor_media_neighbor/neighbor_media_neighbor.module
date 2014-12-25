@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Neighbor Media Neighbor feature.
+ */
+
+include_once 'neighbor_media_neighbor.features.inc';
