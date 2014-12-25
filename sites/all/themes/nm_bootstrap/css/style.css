@@ -6875,3 +6875,15 @@ table .checkbox input[type="checkbox"] {
 a.name.navbar-brand {
   font-size: xx-large;
 }
+
+#navbar > div > div.navbar-header > a.name.navbar-brand > span.neighbor {
+  color: black;
+}
+
+#navbar > div > div.navbar-header > a.name.navbar-brand > span.media {
+  color: white;
+}
+
+#navbar > div > div.navbar-header > p {
+  color: white;
+}
