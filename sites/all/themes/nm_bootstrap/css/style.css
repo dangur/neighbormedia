@@ -6893,3 +6893,9 @@ a.name.navbar-brand {
     width: 100%;
   }
 }
+
+@media (max-width: 400px) {
+  #navbar > div > div.navbar-header > a.logo.navbar-btn.pull-left {
+    width: 100%;
+  }
+}
