@@ -6902,7 +6902,7 @@ a.name.navbar-brand {
 }
 
 @media (max-width: 468px) {
-  #navbar > div > div.navbar-header > p, #navbar > div > div.navbar-header > a:nth-child(4) {
+  #navbar > div > div.navbar-header > p, #navbar > div > div.navbar-header > a:nth-child(4), #navbar > div > div.navbar-header > a:nth-child(4) > img {
     padding-left: 15px;
   }
 }
