@@ -6897,5 +6897,6 @@ a.name.navbar-brand {
 @media (max-width: 400px) {
   #navbar > div > div.navbar-header > a.logo.navbar-btn.pull-left {
     width: 100%;
+    margin-right: 8px;
   }
 }
