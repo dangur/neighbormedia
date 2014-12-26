@@ -6437,10 +6437,18 @@ p:last-child {
 form#search-block-form {
   margin: 0;
 }
+
+@media screen (min-width: 990px) {
+  .navbar #block-search-form {
+    float: none;
+    display: table;
+    margin-left: 57px;
+  }
+}
 .navbar #block-search-form {
-  float: none;
   margin: 5px 0 5px 5px;
   display: table;
+  margin-left: 57px;
 }
 @media screen and (min-width: 992px) {
   .navbar #block-search-form {
@@ -6937,6 +6945,14 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   margin: 0px 15px 15px 0px;
 }
 
-#block-social-media-links-social-media-links {
-  float: right;
+@media (min-width: 990px) {
+  #block-social-media-links-social-media-links {
+    float: right;
+  }
+}
+
+@media (max-width: 990px) {
+  #block-social-media-links-social-media-links {
+    margin-left: 53px;
+  }
 }
