@@ -6936,3 +6936,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   float: left;
   margin: 0px 15px 15px 0px;
 }
+
+#block-social-media-links-social-media-links {
+  float: right;
+}
