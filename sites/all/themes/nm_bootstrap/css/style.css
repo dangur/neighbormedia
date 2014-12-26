@@ -6906,3 +6906,8 @@ a.name.navbar-brand {
     padding-left: 15px;
   }
 }
+
+div.content > div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
