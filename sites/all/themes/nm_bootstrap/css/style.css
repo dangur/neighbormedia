@@ -6906,8 +6906,30 @@ a.name.navbar-brand {
     padding-left: 15px;
   }
 }
-
-div.content > div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img, div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p > span {
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(22) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(21) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(20) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(19) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(18) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(17) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(16) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(15) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(14) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(13) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(12) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(11) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(10) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(9) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(8) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(7) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(6) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(5) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(4) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(3) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(2) > span,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(1) > span,
+div.content > div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img,
+div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > span {
   float: left;
   margin: 0px 15px 15px 0px;
 }
