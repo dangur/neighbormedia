@@ -6956,3 +6956,14 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
     margin-left: 53px;
   }
 }
+
+#block-block-1 > p > a {
+  font-size: 1.25em;
+  margin: 5px 75px;
+}
+
+@media (max-width: 990px) {
+  #block-block-1 > p > a {
+    float: left;
+  }
+}
