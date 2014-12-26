@@ -6906,6 +6906,8 @@ a.name.navbar-brand {
     padding-left: 15px;
   }
 }
+
+div.content > div.field.field-name-field-image.field-type-image.field-label-hidden,
 div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(22) > span,
 div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(21) > span,
 div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p:nth-child(20) > span,
