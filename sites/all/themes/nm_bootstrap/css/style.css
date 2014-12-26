@@ -6907,7 +6907,7 @@ a.name.navbar-brand {
   }
 }
 
-div.content > div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img {
+div.content > div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img, div.content > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div > p > span {
   float: left;
   margin: 0px 15px 15px 0px;
 }
