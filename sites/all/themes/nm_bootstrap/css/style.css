@@ -6869,6 +6869,10 @@ table .checkbox input[type="checkbox"] {
   color: #843534;
 }
 
+.navbar-nav {
+  font-size: 1.9em;
+}
+
 @media (min-width: 768px) {
   .navbar-nav {
     position: absolute;
