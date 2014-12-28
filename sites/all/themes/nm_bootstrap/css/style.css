@@ -6967,3 +6967,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
     float: left;
   }
 }
+
+#ddblock-1 > div, #ddblock-3 > div {
+  display: inline;
+}
