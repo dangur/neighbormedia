@@ -73,8 +73,19 @@
  * @ingroup themeable
  */
 ?>
-<header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
+
+<div id="stratosphere">
   <div class="container">
+    <?php if (!empty($page['stratosphere'])): ?>
+      <?php print render($page['stratosphere']); ?>
+    <?php endif; ?>
+    </div>
+</div>
+
+<header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
+
+  <div class="container">
+
     <div class="navbar-header">
       <?php if ($logo): ?>
       <a class="logo navbar-btn pull-left" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">

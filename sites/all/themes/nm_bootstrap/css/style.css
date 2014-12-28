@@ -6971,3 +6971,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #ddblock-1 > div, #ddblock-3 > div {
   display: inline;
 }
+
+#stratosphere {
+  margin-top: 20px;
+}
