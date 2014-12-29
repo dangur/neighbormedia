@@ -6990,3 +6990,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
     margin-top: 100px;
   }
 }
+
+#profile-main + h3 {
+  display: none;
+}
