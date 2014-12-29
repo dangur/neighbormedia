@@ -6994,3 +6994,8 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #profile-main + h3 {
   display: none;
 }
+
+#block-views-f66d0670fba5854a52cbb15197f898cf > div > div > div > div.views-field.views-field-field-image {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
