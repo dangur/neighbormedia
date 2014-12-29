@@ -6984,3 +6984,9 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #block-menu-block-1 {
   margin-bottom: 20px;
 }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  body > div.main-container.container {
+    margin-top: 100px;
+  }
+}
