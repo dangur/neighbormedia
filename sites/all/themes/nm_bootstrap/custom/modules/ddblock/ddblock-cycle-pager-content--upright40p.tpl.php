@@ -27,7 +27,8 @@ $settings = $ddblock_cycle_pager_settings;
 ?>
 <!-- custom pager with images. --> 
 <?php if ($settings['pager_position'] == 'bottom'): ?>
- <div class="spacer-horizontal"><b></b></div>
+ <!-- This is the horizontal spacer that shows. -->
+ <!--<div class="spacer-horizontal"><b></b></div>-->
 <?php endif; ?>
 <div id="ddblock-custom-pager-<?php print $settings['delta'] ?>" class="<?php print $settings['pager'] ?> clear-block border">
  <div  class="<?php print $settings['pager'] ?>-inner clear-block border">
@@ -46,7 +47,7 @@ $settings = $ddblock_cycle_pager_settings;
        <div class="spacer-horizontal"><b></b></div>
      <?php endif; ?>  
     <?php else: ?>
-     <div class="spacer-vertical"></div>
+     <!--<div class="spacer-vertical"></div>-->
     <?php endif; ?>
    <?php endforeach; ?>
   <?php endif; ?>
