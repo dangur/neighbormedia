@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Neighbor Media Home Page Slideshow feature.
+ */
+
+include_once 'neighbor_media_home_page_slideshow.features.inc';
