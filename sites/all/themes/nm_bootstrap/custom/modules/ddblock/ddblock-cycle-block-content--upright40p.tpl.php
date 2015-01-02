@@ -38,9 +38,6 @@ drupal_add_css($directory . '/custom/modules/ddblock/' . $settings['template'] .
 <div id="ddblock-<?php print $settings['delta'] ?>" class="ddblock-cycle-<?php print $settings['template'] ?> clearfix">
  <div class="container clearfix">
   <div class="container-inner clearfix">
-   <?php if ($settings['pager_toggle'] && $settings['pager_position'] == "top") : ?>
-    <?php print $pager_content ?>
-   <?php endif; ?> 
    <!-- slider content -->
    <div class="slider clearfix">
     <div class="slider-inner clearfix">
@@ -82,6 +79,9 @@ drupal_add_css($directory . '/custom/modules/ddblock/' . $settings['template'] .
      <?php endif; ?>
     </div> <!-- slider-inner-->
    </div>  <!-- slider-->
+   <?php if ($settings['pager_toggle'] && $settings['pager_position'] == "top") : ?>
+    <?php print $pager_content ?>
+   <?php endif; ?> 
    <?php if ($settings['pager_toggle'] && $settings['pager_position'] == "bottom") : ?>
     <?php print $pager_content ?>
    <?php endif; ?> 
