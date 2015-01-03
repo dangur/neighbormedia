@@ -7018,7 +7018,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   margin-bottom: 25px;
 }
 
-#block-views-tweets-block > div > div.view-header > p > img {
+#block-views-tweets-block > div > div.view-header > p > a > img {
   width: 100%;
   padding: 50px;
 }
