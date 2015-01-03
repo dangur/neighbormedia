@@ -7009,3 +7009,23 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   float: left;
   margin: 0px 15px 15px 0px;
 }
+
+#block-views-tweets-block > div > div.view-content > div > ul > li > div > span > img {
+  float: left;
+}
+
+#block-views-tweets-block > div > div.view-content > div > ul > li {
+  margin-bottom: 25px;
+}
+
+#block-views-tweets-block > div > div.view-header > p > img {
+  width: 100%;
+  padding: 50px;
+}
+
+#block-block-3, #block-views-tweets-block {
+  border-top: black;
+  border-top-style: groove;
+  border-top-width: thin;
+  margin-top: 20px;
+}
