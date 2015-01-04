@@ -6448,7 +6448,7 @@ form#search-block-form {
 .navbar #block-search-form {
   margin: 5px 0 5px 5px;
   display: table;
-  margin-left: 57px;
+  margin-left: 64px;
 }
 @media screen and (min-width: 992px) {
   .navbar #block-search-form {
