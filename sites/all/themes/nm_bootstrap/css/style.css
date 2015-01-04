@@ -6446,7 +6446,7 @@ form#search-block-form {
   }
 }
 .navbar #block-search-form {
-  margin: 5px 0 5px 5px;
+  margin: 10px 0 5px 5px;
   display: table;
   margin-left: 64px;
 }
@@ -6980,6 +6980,10 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   #block-block-1 > p > a {
     float: left;
   }
+}
+
+#block-block-1 > p {
+  margin-top: 15px;
 }
 
 /*#ddblock-1 > div, #ddblock-3 > div {
