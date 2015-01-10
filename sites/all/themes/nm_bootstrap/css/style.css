@@ -7034,6 +7034,6 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   margin-top: 20px;
 }
 
-#block-menu-block-1 > h3 (
+#block-menu-block-1 > h3 {
   font-size: 24px;
-)
+}
