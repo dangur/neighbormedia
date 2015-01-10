@@ -7097,3 +7097,8 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   font-style: normal;
   font-weight: bold;
 }
+
+#navbar > div > div.navbar-header > a.name.navbar-brand {
+  font-family: "Gill Sans";
+  font-size: -webkit-xxx-large;
+}
