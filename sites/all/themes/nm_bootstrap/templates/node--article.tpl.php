@@ -90,7 +90,7 @@
   <?php endif; ?>
   <?php print render($title_suffix); ?>
 
-  <?php print '<h3>' . render($content['field_subline']) . '</h3>'; ?>
+  <?php print '<h3>' . render($content['field_subheadline']) . '</h3>'; ?>
 
   <?php if ($display_submitted): ?>
     <div class="submitted">
