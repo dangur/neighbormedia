@@ -7104,6 +7104,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 }
 
 #navbar > div > div.navbar-header > p {
-  font-family: "Gill Sans";
+  font-family: "Gill Sans Light";
+  font-style: italic;
   font-size: x-large;
 }
