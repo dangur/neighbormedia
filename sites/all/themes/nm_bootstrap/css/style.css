@@ -7037,3 +7037,63 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #block-menu-block-1 > h2 {
   font-size: 24px;
 }
+
+.gillsans {
+  font-family: "Gill Sans";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.gillsansbold {
+  font-family: "Gill Sans";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.gillsansbolditalic {
+  font-family: "Gill Sans";
+  font-style: italic;
+  font-weight: bold;
+}
+
+.gillsanscondensed {
+  font-family: "Gill Sans Cond";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.gillsanscondensedbold {
+  font-family: "Gill Sans Cond";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.gillsansitalic {
+  font-family: "Gill Sans";
+  font-style: italic;
+  font-weight: normal;
+}
+
+.gillsanslight {
+  font-family: "Gill Sans Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.gillsanslightitalic {
+  font-family: "Gill Sans Light";
+  font-style: italic;
+  font-weight: normal;
+}
+
+.gillsansultrabold {
+  font-family: "Gill Sans Ultra Bold";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.gillsansultraboldcondensed {
+  font-family: "Gill Sans Ultra Bold Cond";
+  font-style: normal;
+  font-weight: bold;
+}
