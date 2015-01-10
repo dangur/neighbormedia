@@ -71,6 +71,11 @@ function social_media_links_social_media_links_platform_info() {
     'link attributes' => FALSE,
   );
 
+  $platforms['flickr'] = array(
+    'title' => t('Flickr'),
+    'base url' => 'https://www.flickr.com/',
+  );
+
   return $platforms;
 }
 
