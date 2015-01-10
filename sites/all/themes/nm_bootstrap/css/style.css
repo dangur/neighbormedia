@@ -6991,8 +6991,11 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 }*/
 
 #stratosphere {
-  margin-top: 20px;
-  font-size: 21px;
+  font-size: 20.5px;
+}
+
+#navbar {
+  margin-top: 30px;
 }
 
 #block-menu-block-1 {
