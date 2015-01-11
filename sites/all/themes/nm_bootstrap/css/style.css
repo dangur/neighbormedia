@@ -6434,9 +6434,11 @@ p:last-child {
 .region-help .block {
   overflow: hidden;
 }
-form#search-block-form {
-  margin: 0;
-}
+
+  form#search-block-form {
+    margin: 0px 15px;
+  }  
+
 
 @media screen (min-width: 990px) {
   .navbar #block-search-form {
@@ -6959,6 +6961,10 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   margin: 0px 15px 15px 0px;
 }
 
+#block-social-media-links-social-media-links {
+  margin: 15px 0px 0px 0px;
+}
+
 @media (min-width: 990px) {
   #block-social-media-links-social-media-links {
     float: right;
@@ -6974,6 +6980,8 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #block-block-1 > p > a {
   font-size: 1.25em;
   margin: 5px 75px;
+  float: right;
+  font-size: x-large;
 }
 
 @media (max-width: 990px) {
@@ -7101,6 +7109,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 #navbar > div > div.navbar-header > a.name.navbar-brand {
   font-family: "Gill Sans";
   font-size: -webkit-xxx-large;
+  margin-top: 25px;
 }
 
 #navbar > div > div.navbar-header > p {
