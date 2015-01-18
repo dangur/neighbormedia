@@ -76,6 +76,11 @@ function social_media_links_social_media_links_platform_info() {
     'base url' => 'https://www.flickr.com/',
   );
 
+  $platforms['instagram'] = array(
+    'title' => t('Instagram'),
+    'base url' => 'http://www.instagram.com/',
+  );
+
   return $platforms;
 }
 
