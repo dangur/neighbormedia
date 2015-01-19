@@ -7133,3 +7133,8 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
   font-style: italic;
   font-size: x-large;
 }
+
+div.field-name-field-tags div.field-items div.field-item > a {
+  float: left;
+  margin-right: 15px;
+}
