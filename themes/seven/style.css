@@ -990,5 +990,6 @@ div.add-or-remove-shortcuts {
 }
 
 #media-format-form > div > div > div > div.media-vimeo-video.media-vimeo-6 > iframe {
-  display: none;
+  width: 100%;
+  height: auto;
 }
