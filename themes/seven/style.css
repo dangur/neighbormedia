@@ -988,3 +988,7 @@ div.add-or-remove-shortcuts {
   -webkit-border-radius: 8px;
   border-radius: 8px;
 }
+
+#media-format-form > div > div > div > div.media-vimeo-video.media-vimeo-6 > iframe {
+  display: none;
+}
