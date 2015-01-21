@@ -7138,3 +7138,7 @@ div.field-name-field-tags div.field-items div.field-item > a {
   float: left;
   margin-right: 15px;
 }
+
+#block-views-tweets-block img {
+  padding-right: 5px;
+}
