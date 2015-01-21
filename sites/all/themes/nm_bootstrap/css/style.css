@@ -7142,3 +7142,7 @@ div.field-name-field-tags div.field-items div.field-item > a {
 #block-views-tweets-block img {
   padding-right: 5px;
 }
+
+body.front div.user-picture > a > img {
+  display: none;
+}
