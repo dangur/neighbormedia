@@ -7143,6 +7143,11 @@ div.field-name-field-tags div.field-items div.field-item > a {
   padding-right: 5px;
 }
 
+div.node-article > div.user-picture > a > img {
+  float: left;
+  padding: 25px 5px 0px 0px;
+}
+
 body.front div.user-picture > a > img {
   display: none;
 }
