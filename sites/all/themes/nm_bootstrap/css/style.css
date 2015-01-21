@@ -7144,10 +7144,21 @@ div.field-name-field-tags div.field-items div.field-item > a {
 }
 
 div.node-article > div.user-picture > a > img {
-  float: left;
-  padding: 25px 5px 0px 0px;
+  display: none;
 }
 
 body.front div.user-picture > a > img {
+  display: none;
+}
+
+div.author-pane-line.author-offline {
+  display: none;
+}
+
+div.author-last-seen {
+  display: none;
+}
+
+div.author-joined {
   display: none;
 }
