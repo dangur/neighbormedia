@@ -7162,3 +7162,7 @@ div.author-last-seen {
 div.author-joined {
   display: none;
 }
+
+.node-article > ul.links {
+  padding-top: 5px;
+}
