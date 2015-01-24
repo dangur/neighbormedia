@@ -7171,3 +7171,7 @@ div.author-joined {
   float: left;
   padding-right: 5px;
 }
+
+#block-views-reporters-block .views-row {
+  clear: both;
+}
