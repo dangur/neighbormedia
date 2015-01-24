@@ -7176,3 +7176,7 @@ div.author-joined {
 #block-system-main .views-row, #block-views-reporters-block .views-row {
   clear: both;
 }
+
+#block-views-reporters-block .view-id-reporters .views-row .views-field.views-field-field-bio {
+  padding-bottom: 30px;
+}
