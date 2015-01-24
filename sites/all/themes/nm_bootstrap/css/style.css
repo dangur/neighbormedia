@@ -7184,3 +7184,9 @@ div.author-joined {
 #block-views-reporters-block > h2 {
   margin-bottom: 50px;
 }
+
+#block-views-reporters-block .views-row {
+  padding-top: 15px;
+  border-top-style: solid;
+  border-top-width: thin;
+}
