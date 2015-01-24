@@ -7122,14 +7122,14 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 }
 
 #navbar > div > div.navbar-header > a.name.navbar-brand {
-  font-family: "Gill Sans";
+  font-family: "Cabin";
   font-size: -webkit-xxx-large;
   margin-top: 25px;
   margin-bottom: 15px;
 }
 
 #navbar > div > div.navbar-header > p {
-  font-family: "Gill Sans Light";
+  font-family: "Cabin";
   font-style: italic;
   font-size: x-large;
 }
