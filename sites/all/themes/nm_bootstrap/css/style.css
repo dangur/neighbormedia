@@ -7170,6 +7170,7 @@ div.author-joined {
 #block-views-reporters-block img {
   float: left;
   padding-right: 5px;
+  padding-bottom: 50px;
 }
 
 #block-system-main .views-row, #block-views-reporters-block .views-row {
