@@ -7166,3 +7166,8 @@ div.author-joined {
 .node-article > ul.links {
   padding-top: 5px;
 }
+
+#block-views-reporters-block img {
+  float: left;
+  padding-right: 5px;
+}
