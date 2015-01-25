@@ -52,6 +52,7 @@
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <link href="//cloud.webtype.com/css/f036aa72-0b83-4bb5-9223-7a75baba526a.css" rel="stylesheet" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
 </head>
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
   <div id="skip-link">
