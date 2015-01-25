@@ -7174,3 +7174,9 @@ div.node-article > div.user-picture > a > img, body.front div.user-picture > a >
   border-top-style: solid;
   border-top-width: thin;
 }
+
+@-moz-document url-prefix() { 
+  header#navbar a.name.navbar-brand {
+     font-size: 4em;
+  }
+}
