@@ -7192,7 +7192,7 @@ div.node-article > div.user-picture > a > img, body.front div.user-picture > a >
   }
 }*/
 
-.field.field-name-body.field-type-text-with-summary p > img {
+.field.field-name-body.field-type-text-with-summary p img {
   float: left;
   margin: 0px 15px 15px 0px;
 }
