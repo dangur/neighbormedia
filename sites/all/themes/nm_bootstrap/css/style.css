@@ -7177,7 +7177,7 @@ div.node-article > div.user-picture > a > img, body.front div.user-picture > a >
 
 /* Article Spacing */
 
-#block-system-main .view-clone-of-front-page .views-row {
+.node-article,.node-teaser {
   clear: both;
   padding-top: 15px;
   padding-bottom: 30px;
