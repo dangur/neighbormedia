@@ -7146,11 +7146,11 @@ div.field-name-field-tags div.field-items div.field-item > a {
 div.node-article > div.user-picture > a > img, body.front div.user-picture > a > img, div.author-pane-line.author-offline, div.author-last-seen, div.author-joined, div.author-online {
   display: none;
 }
-
+/*
 .node-article > ul.links {
   padding-top: 5px;
 }
-
+*/
 #block-views-reporters-block img {
   float: left;
   padding-right: 15px;
