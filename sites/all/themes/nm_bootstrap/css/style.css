@@ -7002,6 +7002,7 @@ div.content > div.field.field-name-body.field-type-text-with-summary.field-label
 @media (max-width: 990px) {
   #block-block-1 > p > a {
     float: left;
+    margin: -15px 75px 10px 80px;
   }
 }
 
