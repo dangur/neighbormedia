@@ -7205,3 +7205,8 @@ div.node-article > div.user-picture > a > img, body.front div.user-picture > a >
   float: left;
   margin: 0px 15px 15px 0px;
 }
+
+.field-name-field-video-upload video {
+  width: 100%;
+  height: auto;
+}
